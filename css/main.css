@@ -905,10 +905,10 @@ input {
 	box-sizing: border-box;
 }
 .footerlogo{
-	width: 23px;
-	height: 23px;
+	width: 22.5px;
+	height: 22.5px;
 	margin-left: 11px;
-	margin-top: 11px;
+	margin-top: 11.5px;
 	box-sizing: border-box;
 	background-size: cover;
 	float: left;
